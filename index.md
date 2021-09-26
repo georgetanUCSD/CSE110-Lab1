@@ -1,5 +1,4 @@
 # Part 3. Using Markdown
-
 *Author: ZHUOYU TAN*
 <br>
 
@@ -11,7 +10,8 @@
 [README file](#readme-file)<br>
 [My favor color](#my-favor-color)<br>
 [My favor place](#my-favor-place)<br>
-[My current task](#my-current-task)
+[My current task](#my-current-task)<br>
+[Icon usage](#icon-usage)
 ## Who am I? ##
 
 My name is Zhuoyu Tan, an senior CS student in UCSD.
@@ -52,3 +52,7 @@ My instagram [@_georgetan](https://www.instagram.com/_georgetan/).
 - [ ] Study hard
 - [ ] Play hard
 - [ ] Find jobs
+
+## Icon usage ##
+![UCSD icon logo](https://talk-s3.collegeconfidential.com/original/3X/8/8/88ca6a1a07f21363f7f76b9749747b38156af844.jpeg)
+![UCSD text logo](https://cdn.d1baseball.com/logos/teams/256/ucsandiego.png)
