@@ -4,12 +4,20 @@
 <br>
 
 ## Page Summary ##
-#Who am I?
+[Who am I?](#who-am-i)<br>
+[Quote I like](#quote-i-like)<br>
+[Code I wrote](#code-i-wrote)<br>
+[Instagram](#instagram)<br>
+[README file](#readme-file)<br>
+[My favor color](#my-favor-color)<br>
+[My favor place](#my-favor-place)<br>
+[My current task](#my-current-task)
 ## Who am I? ##
 
 My name is Zhuoyu Tan, an senior CS student in UCSD.
 I love playing video **games, weightlighting, and movie**.
 <br>
+
 ## Quote I like ##
 
 My favorite quote from software developer Martin Fowler:
