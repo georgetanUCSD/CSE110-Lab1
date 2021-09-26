@@ -12,6 +12,7 @@ I love playing video **games, weightlighting, and movie**.
 My favorite quote from software developer Martin Fowler:
 >“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
 <br>
+
 ## Code I wrote ##
 The first line of code I worte in Python:
 ```
